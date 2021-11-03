@@ -10,7 +10,7 @@
     }
     img{
         object-fit: contain;
-        width: 200px;
+        width: auto;
         height: auto;
     }
 }
