@@ -23,3 +23,6 @@ img:hover{
 ul:hover{
     cursor:default;
 }
+ul{
+    padding-right: 50px;
+}
