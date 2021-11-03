@@ -27,8 +27,8 @@ content{
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-left: 10px;
-    margin-right: 10px;
+    background-color: lightgray;
+    border-radius: 1px gold solid;
 }
 #junkCard:hover{
     border: gold 5px solid;
