@@ -4,8 +4,8 @@
 
 content{
     display: inline-flex;
-    justify-content: space-around;
-    padding:10%;
+    justify-content: space-evenly;
+    padding:10px;
 }
 img{
     object-fit: contain;
