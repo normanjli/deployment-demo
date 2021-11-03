@@ -3,9 +3,14 @@
 }
 
 content{
-    display: inline-flex;
+    display: flex;
     justify-content: space-evenly;
     padding:10px;
+}
+.junkCard{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 img{
     object-fit: contain;
