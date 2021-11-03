@@ -1,3 +1,4 @@
-const junkAlert=(event)=>{
-    alert(event.target.innerHtml)
+const junkAlert=()=>{
+    let listItem = document.getElementById('listItem4')
+    alert(listItem.innerHTML)
 }
