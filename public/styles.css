@@ -11,10 +11,9 @@ content{
     display: flex;
     flex-direction: column;
     align-items: center;
-    border:black 5px solid;
 }
 #junkCard:hover{
-    border: gold 10px solid;
+    border: gold 5px solid;
 }
 img{
     object-fit: contain;
